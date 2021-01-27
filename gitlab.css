@@ -686,8 +686,6 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url("gitlab/logo.png") no-repeat 45% 90% transparent;
-    background-size: cover;
     opacity: 0;
     height: 100%;
     max-width: 100%;
